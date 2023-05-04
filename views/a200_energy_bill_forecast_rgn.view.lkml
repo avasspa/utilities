@@ -2,7 +2,7 @@
 view: a200_energy_bill_forecast_rgn {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
-  sql_table_name: `utilitieshub-demo-sandbox.utilitieshubdataset.a200_energy_bill_forecast_rgn`
+  sql_table_name: `prj-dev-okd-os-flt-01-fce8.utilities_dataset.a200_energy_bill_forecast_rgn`
     ;;
   # No primary key is defined for this view. In order to join this view in an Explore,
   # define primary_key: yes on a dimension that has no repeated values.

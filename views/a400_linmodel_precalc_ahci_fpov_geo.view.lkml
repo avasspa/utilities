@@ -2,7 +2,7 @@
 view: a400_linmodel_precalc_ahci_fpov_geo {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
-  sql_table_name: `utilitieshub-demo-sandbox.utilitieshubdataset.a400_linmodel_precalc_ahci_fpov_geo`
+  sql_table_name: `prj-dev-okd-os-flt-01-fce8.utilities_dataset.a400_linmodel_precalc_ahci_fpov_geo`
     ;;
   # No primary key is defined for this view. In order to join this view in an Explore,
   # define primary_key: yes on a dimension that has no repeated values.

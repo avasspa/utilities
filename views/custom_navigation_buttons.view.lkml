@@ -1,6 +1,6 @@
 view: custom_navigation_buttons {
 
-  sql_table_name: `utilitieshub-demo-sandbox.utilitieshubdataset.a300_energy_bill_forecast_msoa_geo_v2`
+  sql_table_name: `prj-dev-okd-os-flt-01-fce8.utilities_dataset.a300_energy_bill_forecast_msoa_geo_v2`
     ;;
   # No primary key is defined for this view. In order to join this view in an Explore,
   # define primary_key: yes on a dimension that has no repeated values.

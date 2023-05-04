@@ -2,7 +2,7 @@
 view: a300_energy_bill_forecast_msoa_geo {
   # The sql_table_name parameter indicates the underlying database table
   # to be used for all fields in this view.
-  sql_table_name: `utilitieshub-demo-sandbox.utilitieshubdataset.a300_energy_bill_forecast_msoa_geo`
+  sql_table_name: `prj-dev-okd-os-flt-01-fce8.utilities_dataset.a300_energy_bill_forecast_msoa_geo`
     ;;
   # No primary key is defined for this view. In order to join this view in an Explore,
   # define primary_key: yes on a dimension that has no repeated values.
