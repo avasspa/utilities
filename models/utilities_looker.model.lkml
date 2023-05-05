@@ -5,7 +5,7 @@ connection: "utilities"
 include: "/views/**/*.view"
 
 # include all the dashboards
-#include: "/dashboards/**/*.dashboard"
+include: "/dashboards/**/*.dashboard"
 
 # Datagroups define a caching policy for an Explore. To learn more,
 # use the Quick Help panel on the right to see documentation.
