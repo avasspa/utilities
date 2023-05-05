@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: Rm98crMTpjZaCqVF6wRFsG
+  preferred_slug: dKVaKJOqxMF399TLVoPCO1
   elements:
   - title: Population Level
     name: Population Level

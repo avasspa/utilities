@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: SZTNeJLTysLHXjKIxR5irT
+  preferred_slug: Ii5RoNI9Ol0yUo35ga2C7T
   elements:
   - title: Heatmap
     name: Heatmap

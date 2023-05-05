@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: jF7C5pvzHovnT1g36gRwQq
+  preferred_slug: ftuQKZiTZu7qGVApM1NDqV
   elements:
   - title: PSR Merged  (Internal + External)
     name: PSR Merged  (Internal + External)
