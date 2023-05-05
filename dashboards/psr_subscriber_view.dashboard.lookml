@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: G364trmfUkxeqqrRVnyoem
+  preferred_slug: nXprHjLgiehb8rUrA4yi82
   elements:
   - title: PSR Postcode Level
     name: PSR Postcode Level

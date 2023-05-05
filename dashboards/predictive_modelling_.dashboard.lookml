@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: Uu4radoSBnGw3y9Awo2cQi
+  preferred_slug: NYVTk43p103ONhVdAmJGkP
   elements:
   - title: Model Predicted Fuel Poverty Percentage of Households
     name: Model Predicted Fuel Poverty Percentage of Households

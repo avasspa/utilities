@@ -3,7 +3,7 @@
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
-  preferred_slug: LgMGiimLRbtUrmXGLHSDBJ
+  preferred_slug: CNW1s6X8sSuz4qpCLi5hzc
   elements:
   - name: Shared Priority Service Register
     type: text
