@@ -10,8 +10,7 @@
     model: utilities_looker
     explore: a200_psr_demo_geo
     type: looker_map
-    fields: [a200_psr_demo_geo.address_latlong, a200_psr_demo_geo.vulnerability_details, a200_psr_demo_geo.overlay_or_not
-      a200_psr_demo_geo.company_name, a200_psr_demo_geo.internal_or_external]
+    fields: [a200_psr_demo_geo.address_latlong, a200_psr_demo_geo.vulnerability_details,a200_psr_demo_geo.company_name, a200_psr_demo_geo.internal_or_external]
     pivots: [a200_psr_demo_geo.internal_or_external, a200_psr_demo_geo.company_name]
     filters: {}
     sorts: [a200_psr_demo_geo.internal_or_external desc, a200_psr_demo_geo.company_name,

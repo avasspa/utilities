@@ -195,7 +195,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+    #  Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -288,7 +288,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+  #    Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -383,7 +383,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+  #    Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -479,7 +479,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+    #  Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -575,7 +575,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+   #   Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -671,7 +671,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+    #  Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
@@ -767,7 +767,7 @@
       Financial Difficulty (Yes / No): a200_psr_demo_geo_agg.financial_difficulty
       Age Related (Yes / No): a200_psr_demo_geo_agg.age_related
       Mobility Related (Yes / No): a200_psr_demo_geo_agg.mobility_related
-      Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
+   #   Safety Related (Yes / No): a200_psr_demo_geo_agg.safety_related
       Ladnm: a200_psr_demo_geo_agg.ladnm
       Msoa11 Nm: a200_psr_demo_geo_agg.msoa11_nm
       Temporary Registration (Yes / No): a200_psr_demo_geo_agg.temporary_registration
