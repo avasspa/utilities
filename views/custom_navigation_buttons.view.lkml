@@ -22,6 +22,7 @@ view: custom_navigation_buttons {
           <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/25">Predictive Model</a>
           <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/28">Regional Drilldown</a>
           <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/29">Shared PSR - Overview</a>
+          <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/26">Shared PSR - Contributor</a>
           <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/1619">Shared PSR - Utilities View</a>
           <a style="padding: 3px; float: center; line-height: 40px; margin-left: 8px; color: #4285F4" href="https://paconsulting.cloud.looker.com/embed/dashboards/27">Shared PSR - Subscriber View</a>
 
