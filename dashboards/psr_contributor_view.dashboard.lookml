@@ -76,7 +76,7 @@
       Health Condition (Yes / No): a200_psr_demo_geo.health_condition
       Medical Electricity Dependent (Yes / No): a200_psr_demo_geo.medical_electricity_dependent
       Medical Water Dependent (Yes / No): a200_psr_demo_geo.medical_water_dependent
-      Safety Related (Yes / No): a200_psr_demo_geo.safety_related
+      #Safety Related (Yes / No): a200_psr_demo_geo.safety_related
       Mobility Related (Yes / No): a200_psr_demo_geo.mobility_related
       Local Authority: a200_psr_demo_geo.lad21_nm
       MSOA: a200_psr_demo_geo.msoa11_nm
@@ -159,7 +159,7 @@
       Health Condition (Yes / No): a200_psr_demo_geo.health_condition
       Medical Electricity Dependent (Yes / No): a200_psr_demo_geo.medical_electricity_dependent
       Medical Water Dependent (Yes / No): a200_psr_demo_geo.medical_water_dependent
-      Safety Related (Yes / No): a200_psr_demo_geo.safety_related
+      #Safety Related (Yes / No): a200_psr_demo_geo.safety_related
       Mobility Related (Yes / No): a200_psr_demo_geo.mobility_related
       Local Authority: a200_psr_demo_geo.lad21_nm
       MSOA: a200_psr_demo_geo.msoa11_nm
@@ -278,7 +278,7 @@
       Health Condition (Yes / No): a200_psr_demo_geo.health_condition
       Medical Electricity Dependent (Yes / No): a200_psr_demo_geo.medical_electricity_dependent
       Medical Water Dependent (Yes / No): a200_psr_demo_geo.medical_water_dependent
-      Safety Related (Yes / No): a200_psr_demo_geo.safety_related
+      #Safety Related (Yes / No): a200_psr_demo_geo.safety_related
       Mobility Related (Yes / No): a200_psr_demo_geo.mobility_related
       Local Authority: a200_psr_demo_geo.lad21_nm
       MSOA: a200_psr_demo_geo.msoa11_nm
@@ -474,7 +474,7 @@
       Health Condition (Yes / No): a200_psr_demo_geo.health_condition
       Medical Electricity Dependent (Yes / No): a200_psr_demo_geo.medical_electricity_dependent
       Medical Water Dependent (Yes / No): a200_psr_demo_geo.medical_water_dependent
-      Safety Related (Yes / No): a200_psr_demo_geo.safety_related
+     # Safety Related (Yes / No): a200_psr_demo_geo.safety_related
       Mobility Related (Yes / No): a200_psr_demo_geo.mobility_related
       Local Authority: a200_psr_demo_geo.lad21_nm
       MSOA: a200_psr_demo_geo.msoa11_nm
