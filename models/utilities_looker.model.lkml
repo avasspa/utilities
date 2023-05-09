@@ -1,4 +1,4 @@
-# Define the database connection to be used for this model.
+# Define the database connection to be used for this model#.
 connection: "utilities"
 
 # include all the views
