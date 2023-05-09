@@ -918,19 +918,19 @@
     explore: a200_psr_demo_geo_agg
     listens_to_filters: []
     field: a200_psr_demo_geo_agg.age_related
-  - name: Safety Related (Yes / No)
-    title: Safety Related (Yes / No)
-    type: field_filter
-    default_value: No,Yes
-    allow_multiple_values: true
-    required: false
-    ui_config:
-      type: button_group
-      display: inline
-    model: utilities_looker
-    explore: a200_psr_demo_geo_agg
-    listens_to_filters: []
-    field: a200_psr_demo_geo_agg.safety_related
+  #- name: Safety Related (Yes / No)
+  #  title: Safety Related (Yes / No)
+  #  type: field_filter
+  #  default_value: No,Yes
+  #  allow_multiple_values: true
+  #  required: false
+  #  ui_config:
+  #    type: button_group
+  #    display: inline
+  #  model: utilities_looker
+  #  explore: a200_psr_demo_geo_agg
+  #  listens_to_filters: []
+  #  field: a200_psr_demo_geo_agg.safety_related
   - name: Mobility Related (Yes / No)
     title: Mobility Related (Yes / No)
     type: field_filter
