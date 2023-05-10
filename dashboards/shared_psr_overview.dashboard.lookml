@@ -45,7 +45,7 @@
       \n 4. Analytics hub retains access to key capabilities of BigQuery like its\
       \ built-in ML, real-time, and geospatial analytics. This allows any subscriber\
       \ to perform their own modeling and analytics on the data at the level at which\
-      \ they are authorized to see.    \n\n---\n__Analytics Hub Archictecture__\n\n\
+      \ they are authorized to see.    \n\n---\n__Analytics Hub Architecture__\n\n\
       \n<img src=\"https://i.imgur.com/AuGSQXr.png\" width=\"75%\" height=\"75%\"\
       >\n\n___\n\n__PSR Data Sharing Diagram__\n\nIndividual households in the UK\
       \ are identified by their [UPRN (Unique Property Reference Number)](https://www.geoplace.co.uk/addresses-streets/location-data/the-uprn).\
